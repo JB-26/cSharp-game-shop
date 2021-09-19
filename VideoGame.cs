@@ -6,8 +6,10 @@ class VideoGame
 
     public double pricePounds {get; set;}
 
-    public void PrintGame(string name, string publisher, string platform, double pricePounds)
+    public double id {get; set;}
+
+    public void PrintGame()
     {
-        System.Console.WriteLine($"Game name: {name}\nPublisher: {publisher}\nPlatform: {platform}\nPrice £{pricePounds}");
+        System.Console.WriteLine($"ID: {this.id}\nGame name: {this.name}\nPublisher: {this.publisher}\nPlatform: {this.platform}\nPrice £{this.pricePounds}");
     }
 }

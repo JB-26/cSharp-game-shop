@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qe0OVUeESbcpP6Cv/Odmv9ZuREsFzv46WYEs6qAOlnfMJ3gUA0QiUwP5VCEIxoXITby2AJZIFahOa5XivE5AOQ==",
+  "dgSpecHash": "k/SEsPveuxplyNw55sCDS+kn4R2nBaGpsK1/ScW728fQd/KYPprfnG+JAqekC/61Pc77H6qTxpA7R7opdpxdTw==",
   "success": true,
-  "projectFilePath": "/Users/joshblewitt/Dev/c#/myApp/myApp.csproj",
+  "projectFilePath": "D:\\Repos\\cSharp-game-shop\\myApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
