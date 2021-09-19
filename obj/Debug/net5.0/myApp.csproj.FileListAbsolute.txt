@@ -1,0 +1,15 @@
+/Users/joshblewitt/Dev/c#/myApp/bin/Debug/net5.0/myApp.deps.json
+/Users/joshblewitt/Dev/c#/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Users/joshblewitt/Dev/c#/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Users/joshblewitt/Dev/c#/myApp/bin/Debug/net5.0/myApp.dll
+/Users/joshblewitt/Dev/c#/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Users/joshblewitt/Dev/c#/myApp/bin/Debug/net5.0/myApp.pdb
+/Users/joshblewitt/Dev/c#/myApp/obj/Debug/net5.0/myApp.csproj.AssemblyReference.cache
+/Users/joshblewitt/Dev/c#/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshblewitt/Dev/c#/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Users/joshblewitt/Dev/c#/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Users/joshblewitt/Dev/c#/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Users/joshblewitt/Dev/c#/myApp/obj/Debug/net5.0/myApp.dll
+/Users/joshblewitt/Dev/c#/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Users/joshblewitt/Dev/c#/myApp/obj/Debug/net5.0/myApp.pdb
+/Users/joshblewitt/Dev/c#/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
