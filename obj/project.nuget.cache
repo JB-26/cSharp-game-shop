@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "k/SEsPveuxplyNw55sCDS+kn4R2nBaGpsK1/ScW728fQd/KYPprfnG+JAqekC/61Pc77H6qTxpA7R7opdpxdTw==",
+  "dgSpecHash": "Wr7GOkFC91oSYhZFNRhXjmon+j7ei8Ms0mpMK9Flh46OE0N5kRmJG/tj+hT6dXCFTC94C6/ANLNDfGV7WZwSjA==",
   "success": true,
   "projectFilePath": "D:\\Repos\\cSharp-game-shop\\myApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\joshb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

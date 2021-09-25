@@ -20,7 +20,6 @@ D:\Repos\cSharp-game-shop\bin\Debug\net5.0\myApp.runtimeconfig.dev.json
 D:\Repos\cSharp-game-shop\bin\Debug\net5.0\myApp.dll
 D:\Repos\cSharp-game-shop\bin\Debug\net5.0\ref\myApp.dll
 D:\Repos\cSharp-game-shop\bin\Debug\net5.0\myApp.pdb
-D:\Repos\cSharp-game-shop\obj\Debug\net5.0\myApp.csproj.AssemblyReference.cache
 D:\Repos\cSharp-game-shop\obj\Debug\net5.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
 D:\Repos\cSharp-game-shop\obj\Debug\net5.0\myApp.AssemblyInfoInputs.cache
 D:\Repos\cSharp-game-shop\obj\Debug\net5.0\myApp.AssemblyInfo.cs
@@ -29,3 +28,6 @@ D:\Repos\cSharp-game-shop\obj\Debug\net5.0\myApp.dll
 D:\Repos\cSharp-game-shop\obj\Debug\net5.0\ref\myApp.dll
 D:\Repos\cSharp-game-shop\obj\Debug\net5.0\myApp.pdb
 D:\Repos\cSharp-game-shop\obj\Debug\net5.0\myApp.genruntimeconfig.cache
+D:\Repos\cSharp-game-shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Repos\cSharp-game-shop\obj\Debug\net5.0\myApp.csproj.CopyComplete
+D:\Repos\cSharp-game-shop\obj\Debug\net5.0\myApp.csproj.AssemblyReference.cache

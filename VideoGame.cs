@@ -12,4 +12,9 @@ class VideoGame
     {
         System.Console.WriteLine($"ID: {this.id}\nGame name: {this.name}\nPublisher: {this.publisher}\nPlatform: {this.platform}\nPrice £{this.pricePounds}");
     }
+
+    public string GameDetails()
+    {
+        return ($"ID: {this.id}\nGame name: {this.name}\nPublisher: {this.publisher}\nPlatform: {this.platform}\nPrice £{this.pricePounds}\n\n");
+    }
 }

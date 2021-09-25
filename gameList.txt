@@ -1,0 +1,12 @@
+ID: 1
+Game name: Elevator Action Returns
+Publisher: Sega
+Platform: Sega
+Price £100
+
+ID: 2
+Game name: Tactics Ogre
+Publisher: Quest
+Platform: Quest
+Price £22
+
